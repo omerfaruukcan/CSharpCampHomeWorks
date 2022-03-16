@@ -3,13 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "CSharpCampHomeWorks\DataTypes.csproj", "{43117B4D-3FAE-49BB-8819-AC2CB0EB5FB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "CSharpCampHomeWorks\DataTypes.csproj", "{43117B4D-3FAE-49BB-8819-AC2CB0EB5FB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwithCase", "SwithCase\SwithCase.csproj", "{08C99CF8-4C7E-407F-AFB8-79C6ADDA6C4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwithCase", "SwithCase\SwithCase.csproj", "{08C99CF8-4C7E-407F-AFB8-79C6ADDA6C4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TernaryOperator", "TernaryOperator\TernaryOperator.csproj", "{2D6F9F0C-3152-472C-9BCE-1BD7FF4AD82B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TernaryOperator", "TernaryOperator\TernaryOperator.csproj", "{2D6F9F0C-3152-472C-9BCE-1BD7FF4AD82B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhileLoop", "WhileLoop\WhileLoop.csproj", "{59CD041B-16CE-48B9-964E-27E97A2AB0CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WhileLoop", "WhileLoop\WhileLoop.csproj", "{59CD041B-16CE-48B9-964E-27E97A2AB0CA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{4C5DB238-B182-4133-9E32-85ED8CADF80F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{864CFA88-31CA-43E5-A66A-E1D560093833}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{59CD041B-16CE-48B9-964E-27E97A2AB0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59CD041B-16CE-48B9-964E-27E97A2AB0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59CD041B-16CE-48B9-964E-27E97A2AB0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C5DB238-B182-4133-9E32-85ED8CADF80F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C5DB238-B182-4133-9E32-85ED8CADF80F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C5DB238-B182-4133-9E32-85ED8CADF80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C5DB238-B182-4133-9E32-85ED8CADF80F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864CFA88-31CA-43E5-A66A-E1D560093833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864CFA88-31CA-43E5-A66A-E1D560093833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864CFA88-31CA-43E5-A66A-E1D560093833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864CFA88-31CA-43E5-A66A-E1D560093833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
