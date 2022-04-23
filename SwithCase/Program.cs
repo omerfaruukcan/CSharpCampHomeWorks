@@ -6,8 +6,8 @@ namespace SwitchCase
     {
         static void Main(string[] args)
         {
-            int nitem = 5;
-            switch (nitem)
+            int item = 5;
+            switch (item)
             {
 
                 case 1:

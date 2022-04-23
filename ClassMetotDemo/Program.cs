@@ -22,7 +22,7 @@ namespace ClassMetotDemo
             customer3.Id = 3;
             customer3.Name = "Hatice";
             customer3.SurName = "CAN";
-            customer3.MusteriNo = 159753;
+            customer3.MusteriNo = 159752;
 
             Customer[] customers = new Customer[] { customer1, customer2, customer3 };
 

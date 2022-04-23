@@ -7,7 +7,7 @@ namespace TernaryOperator
         static void Main(string[] args)
         {
             int a = 10;
-            int b = 20;
+            int b = 30;
             string result = a > b ? "a is greater than b" : a < b ? "b is greater than a" : "a is equal to b";
 
             Console.WriteLine(result);

@@ -6,7 +6,7 @@ namespace WhileLoop
     {
         static void Main(string[] args)
         {
-            int x = 1;
+            int x = 0;
 
             // Exit when x becomes greater than 4
             while (x <= 4)

@@ -77,7 +77,7 @@ namespace Methods
 
         static int Add6(out int n1, int n2)
         {
-            n1 = 30; // out kullanilacaksa burda mutlaka deger set edilmelidir
+            n1 = 30; // out kullanilacaksa burda mutlaka deger set edilmelidir.
             return n1 + n2;
         }
 
