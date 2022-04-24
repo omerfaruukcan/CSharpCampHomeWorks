@@ -33,9 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces2", "Interfaces2\Interfaces2.csproj", "{84DE89C8-722E-42F9-90E1-BAA672211DED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{21B58FDA-5F48-4243-AECE-0DCD5C5C163E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass", "AbstractClass\AbstractClass.csproj", "{21B58FDA-5F48-4243-AECE-0DCD5C5C163E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClass2", "AbstractClass2\AbstractClass2.csproj", "{ECE344B9-C95A-48AB-B6DC-7A9690F62CA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClass2", "AbstractClass2\AbstractClass2.csproj", "{ECE344B9-C95A-48AB-B6DC-7A9690F62CA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
